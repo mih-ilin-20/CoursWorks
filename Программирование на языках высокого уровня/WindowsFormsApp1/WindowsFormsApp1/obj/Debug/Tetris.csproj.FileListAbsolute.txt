@@ -1,0 +1,61 @@
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csprojAssemblyReference.cache
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.GenerateResource.cache
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Leaders.resources
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registr.resources
+F:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameOver.resources
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csprojAssemblyReference.cache
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameOver.resources
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registr.resources
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Leaders.resources
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.GenerateResource.cache
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameOver.resources
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registr.resources
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Leaders.resources
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\КУРСАЧ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.AssemblyReference.cache
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.SuggestedBindingRedirects.cache
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameOver.resources
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registr.resources
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Leaders.resources
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ДЗ\Курсач ПЯВУ\чычычыч\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

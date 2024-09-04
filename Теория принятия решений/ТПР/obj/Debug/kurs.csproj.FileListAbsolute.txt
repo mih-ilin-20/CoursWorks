@@ -1,0 +1,12 @@
+D:\ДЗ\Курсач ТПР\kurs\bin\Debug\kurs.exe.config
+D:\ДЗ\Курсач ТПР\kurs\bin\Debug\kurs.exe
+D:\ДЗ\Курсач ТПР\kurs\bin\Debug\kurs.pdb
+D:\ДЗ\Курсач ТПР\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+D:\ДЗ\Курсач ТПР\kurs\obj\Debug\kurs.csproj.SuggestedBindingRedirects.cache
+D:\ДЗ\Курсач ТПР\kurs\obj\Debug\kurs.Properties.Resources.resources
+D:\ДЗ\Курсач ТПР\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+D:\ДЗ\Курсач ТПР\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+D:\ДЗ\Курсач ТПР\kurs\obj\Debug\kurs.exe
+D:\ДЗ\Курсач ТПР\kurs\obj\Debug\kurs.pdb
+D:\ДЗ\Курсач ТПР\kurs\obj\Debug\kurs.Model.resources
+D:\ДЗ\Курсач ТПР\kurs\obj\Debug\kurs.cont_kurs.resources
